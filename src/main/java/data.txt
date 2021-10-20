@@ -1,0 +1,7 @@
+INSERT INTO CONTA VALUES('3004', '100.00', '500.00', '30', '1234');
+INSERT INTO CONTA VALUES('3005', '100.00', '500.00', '30', '1234');
+INSERT INTO CONTA VALUES('3006', '100.00', '500.00', '30', '1234');
+
+INSERT INTO ENDERECO VALUES('0011', 'Rua Silva', '11', 'ap 101', 'Centro', '89052005','Blumenau', 'Santa Catarina');
+INSERT INTO ENDERECO VALUES('0012', 'Rua Silva', '12', 'ap 122', 'Centro', '89052005','Blumenau', 'Santa Catarina');
+INSERT INTO ENDERECO VALUES('0013', 'Rua Silva', '13', 'ap 133', 'Centro', '89052005','Blumenau', 'Santa Catarina');
